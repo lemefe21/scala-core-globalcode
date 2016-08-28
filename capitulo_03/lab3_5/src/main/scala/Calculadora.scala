@@ -1,6 +1,6 @@
-class Calculadora{
+class Calculadora {
 
-	def soma(x:BigDecimal, y:BigDecimal):BigDecimal = x + y //retorno implicito
+	def soma(x:BigDecimal, y:BigDecimal):BigDecimal = x + y
 	def subtrai(x:BigDecimal, y:BigDecimal):BigDecimal = x - y
 	def multiplica(x:BigDecimal, y:BigDecimal):BigDecimal = x * y
 	def divide(x:BigDecimal, y:BigDecimal):BigDecimal = x / y
